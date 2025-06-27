@@ -128,13 +128,10 @@ self.snakes = {16: 6, 47: 26, 49: 11, ...}   # start: end
 ## 📸 Screenshots
 
 ### Start Menu
-![Start Menu](https://via.placeholder.com/400x300/245F5C/FFFFFF?text=Animated+Start+Menu)
+![Start Menu](assets/Main_Screen.jpg)
 
 ### Gameplay
-![Gameplay](https://via.placeholder.com/400x300/245F5C/FFFFFF?text=Game+Board)
-
-### Winner Screen
-![Winner](https://via.placeholder.com/400x300/245F5C/FFFFFF?text=Winner+Celebration)
+![Gameplay](assets/Game_Screen.jpg)
 
 ## 🤝 Contributing
 
@@ -181,9 +178,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
+- **GitHub**: [@yourusername]([https://github.com/yourusername](https://github.com/Ramesh0708))
+- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ramesh-choudhary07/))
 
 ## ⭐ Show Your Support
 
