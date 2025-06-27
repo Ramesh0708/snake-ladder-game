@@ -178,8 +178,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [Ramesh0708]([https://github.com/yourusername](https://github.com/Ramesh0708))
-- **LinkedIn**: [ramesh-choudhary07]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ramesh-choudhary07/))
+- **GitHub**: [Ramesh0708]([https://github.com/Ramesh0708](https://github.com/Ramesh0708))
+- **LinkedIn**: [ramesh-choudhary07]([https://linkedin.com/in/ramesh-choudhary07/](https://www.linkedin.com/in/ramesh-choudhary07/))
 
 ## ⭐ Show Your Support
 
