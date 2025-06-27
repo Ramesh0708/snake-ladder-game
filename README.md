@@ -2,7 +2,7 @@
 
 A modern, visually stunning Snake and Ladder game built with Python and Pygame, featuring smooth animations, educational messages, and professional UI design.
 
-![Game Banner](assets/Game_Screen.jpg)
+![Game Banner](assets/Game_Banner.jpg)
 
 ## ✨ Features
 
