@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question": "What does IAM stand for in AWS?",
+      "options": [
+        "Identity and Access Management",
+        "Internet Access Module",
+        "Instance Access Method",
+        "Internal Authorization Mechanism"
+      ],
+      "answer": "Identity and Access Management",
+      "explanation": "IAM is a web service that helps you securely control access to AWS resources."
+    },
+    {
+      "question": "Which AWS service is serverless?",
+      "options": [
+        "EC2",
+        "RDS",
+        "Lambda",
+        "EBS"
+      ],
+      "answer": "Lambda",
+      "explanation": "AWS Lambda lets you run code without provisioning or managing servers."
+    },
+    {
+      "question": "What type of storage is S3?",
+      "options": [
+        "Block Storage",
+        "File Storage",
+        "Object Storage",
+        "Relational Storage"
+      ],
+      "answer": "Object Storage",
+      "explanation": "Amazon S3 is an object storage service offering scalability, data availability, and security."
+    },
+    {
+      "question": "Which service allows monitoring AWS resources and applications?",
+      "options": [
+        "CloudTrail",
+        "CloudWatch",
+        "Inspector",
+        "SNS"
+      ],
+      "answer": "CloudWatch",
+      "explanation": "Amazon CloudWatch collects monitoring and operational data in the form of logs, metrics, and events."
+    },
+    {
+      "question": "Which AWS service is typically used for hosting databases?",
+      "options": [
+        "Lambda",
+        "RDS",
+        "S3",
+        "EC2"
+      ],
+      "answer": "RDS",
+      "explanation": "Amazon RDS is a managed relational database service that supports several database engines."
+    }
+  ]
+}
